@@ -1,0 +1,10 @@
+{
+  "name": "heart-monitor-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/heart-monitor-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["heart-monitor"],
+  "// targets": "to see all targets run: nx show project heart-monitor-e2e --web",
+  "targets": {}
+}
